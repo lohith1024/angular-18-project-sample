@@ -1,0 +1,1 @@
+The EACCES error occurs when the user running the npm command does not have the necessary permissions to write to the directory where npm is trying to install the package. This is a common issue when installing packages globally, as the global node_modules directory often requires elevated permissions.
